@@ -25,7 +25,7 @@ body{
    background-color: var(--cor0);
    font-family: var(--font-geral);
    font-weight: normal;
-   font-size: 1.2em;
+   font-size: 1.3em;
 }
 
 header{
@@ -75,6 +75,7 @@ a.externo{
     text-decoration: none;
     color: var(--cor5);
     padding-left: 6px;
+    display: inline;
     background-image: linear-gradient(to right, var(--cor2), var(--cor1), var(--cor0));
 }
 a.externo:hover{
