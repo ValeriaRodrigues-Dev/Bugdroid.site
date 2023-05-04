@@ -25,7 +25,7 @@ body{
    background-color: var(--cor0);
    font-family: var(--font-geral);
    font-weight: normal;
-   font-size: 1.1em;
+   font-size: 1.3em;
 }
 
 header{
@@ -79,9 +79,6 @@ a.externo{
 a.externo:hover{
     text-decoration: underline;
     color: var(--cor3);
-}
-a.externo::after{
-    content: '\00A0\1F517';
 }
 
 strong{
