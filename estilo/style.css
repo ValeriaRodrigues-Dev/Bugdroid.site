@@ -26,6 +26,7 @@ body{
    font-family: var(--font-geral);
    font-weight: normal;
    font-size: 1.3em;
+   text-indent: 20px;
 }
 
 header{
@@ -115,7 +116,6 @@ main h2{
 }
 main p{
     text-align: justify;
-    text-indent: 20px;
     margin: 15px 0px;
     line-height: 2em;
     padding: 10px;
