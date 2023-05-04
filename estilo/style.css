@@ -60,7 +60,7 @@ nav{
 nav > a{
     color: white;
     text-decoration: none;
-    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.507);
+    box-shadow: 3px 4px 3px rgba(0, 0, 0, 0.507);
     border-radius: 5px;
     padding: 8px;
     transition-duration: .5s;
@@ -70,8 +70,6 @@ nav > a:hover{
 } 
 
 a.externo{
-    font-size: 1em;
-    display: inline;
     font-weight: bolder;
     text-decoration: none;
     color: var(--cor5);
@@ -120,7 +118,7 @@ main h2{
 }
 main p{
     text-align: justify;
-    text-indent: 30px;
+    text-indent: 25px;
     margin: 15px 0px;
     line-height: 2em;
     padding: 10px;
