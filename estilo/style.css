@@ -53,10 +53,10 @@ header > p{
 }
 nav{
     background-color: var(--cor3);
-    padding-left: 10px;
+    padding-left: 0px;
     padding-top: 10px;
     padding-bottom: 20px;
-
+    margin-left: -15px;
 }
 nav > a{
     color: white;
